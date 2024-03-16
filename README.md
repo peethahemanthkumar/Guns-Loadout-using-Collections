@@ -43,3 +43,14 @@ A simple project where Collections is used to store data and perform some operat
     </ul>  
   </li>
 </ul>
+
+<h2>How to proceed : </h2>
+<ul>
+  <li>Step 1 :- Adding (***) Details File</li>
+  <li>Step 2 :- (***) Details File</li>
+  <li>Step 3 :- (***) Conversion File</li>
+  <li>Step 4 :- (***) Combine File</li>
+  <li>Step 5 :- (***) Printing File</li>
+  <li>Step 6 :- LoadOut File</li>
+  <li>Step 7 :- For Single (***) Printing -> Final (***) Details File</li>
+</ul>
