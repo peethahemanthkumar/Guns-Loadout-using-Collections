@@ -32,6 +32,7 @@ A simple project where Collections is used to store data and perform some operat
 </ul>
 
 <h2>About this project</h2>
+<p>This project is based on the guns, equipment, and utilities present in Counter Strike 2 game.</p>
 <ul>
   <li>Features :
     <ul>
