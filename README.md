@@ -38,7 +38,7 @@ A simple project where Collections is used to store data and perform operations 
     <ul>
       <li>Sorted All the data about various types of guns into separate Lists.</li> 
       <li>Made separate Files for different types of guns.</li>
-      <li>Combined different lists into one single list for a simgle type of gun.</li>
+      <li>Combined different lists into one single list for a single type of gun.</li>
       <li>Combined all the guns list into one single loadout list.</li>
       <li>This project contains files to print a single type of gun details and a single file to display all the different type of guns available.</li>
     </ul>  
