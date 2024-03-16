@@ -15,7 +15,7 @@ A simple project where Collections is used to store data and perform some operat
     <ul>
       <li>ArrayList</li>
       <li>LinkedList</li>
-      <li>List Iteratos</li>
+      <li>List Iterator</li>
     </ul>
   </li>
 </ul>
@@ -54,3 +54,11 @@ A simple project where Collections is used to store data and perform some operat
   <li>Step 6 :- LoadOut File</li>
   <li>Step 7 :- For Single (***) Printing -> Final (***) Details File</li>
 </ul>
+
+<h2>How to Download : </h2>
+<p>Download all the files in every folder into a single folder to print the whole Loadout.</p>
+<p>To print only single type of gun list download the specific folder.</p>
+
+
+
+
